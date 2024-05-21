@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "patterns_lab2/1.0.0": {
+        "dependencies": {
+          "Middleware": "1.0.0"
+        },
+        "runtime": {
+          "patterns_lab2.dll": {}
+        }
+      },
+      "Middleware/1.0.0": {
+        "runtime": {
+          "Middleware.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "patterns_lab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Middleware/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\bin\Debug\net8.0\Middleware.deps.json
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\bin\Debug\net8.0\Middleware.dll
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\bin\Debug\net8.0\Middleware.pdb
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\obj\Debug\net8.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfoInputs.cache
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\obj\Debug\net8.0\Middleware.AssemblyInfo.cs
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\obj\Debug\net8.0\Middleware.csproj.CoreCompileInputs.cache
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\obj\Debug\net8.0\Middleware.sourcelink.json
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\obj\Debug\net8.0\Middleware.dll
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\obj\Debug\net8.0\refint\Middleware.dll
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\obj\Debug\net8.0\Middleware.pdb
+D:\polytech\patterns_polytech\patterns_lab2\patterns_lab2\Middleware\obj\Debug\net8.0\ref\Middleware.dll

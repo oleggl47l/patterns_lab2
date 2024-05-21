@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
-      "Middleware/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Middleware.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Middleware.dll": {}
-        }
-      }
-    }
+    "net8.0": {}
   },
-  "libraries": {
-    "Middleware/1.0.0": {
-      "type": "project",
-      "path": "../Middleware/Middleware.csproj",
-      "msbuildProject": "../Middleware/Middleware.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": [
-      "Middleware >= 1.0.0"
-    ]
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\oleg\\.nuget\\packages\\": {},
@@ -33,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\polytech\\patterns_polytech\\patterns_lab2\\patterns_lab2\\patterns_lab2\\patterns_lab2.csproj",
-      "projectName": "patterns_lab2",
-      "projectPath": "D:\\polytech\\patterns_polytech\\patterns_lab2\\patterns_lab2\\patterns_lab2\\patterns_lab2.csproj",
+      "projectUniqueName": "D:\\polytech\\patterns_polytech\\patterns_lab2\\patterns_lab2\\Middleware\\Middleware.csproj",
+      "projectName": "Middleware",
+      "projectPath": "D:\\polytech\\patterns_polytech\\patterns_lab2\\patterns_lab2\\Middleware\\Middleware.csproj",
       "packagesPath": "C:\\Users\\oleg\\.nuget\\packages\\",
-      "outputPath": "D:\\polytech\\patterns_polytech\\patterns_lab2\\patterns_lab2\\patterns_lab2\\obj\\",
+      "outputPath": "D:\\polytech\\patterns_polytech\\patterns_lab2\\patterns_lab2\\Middleware\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,11 +38,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "D:\\polytech\\patterns_polytech\\patterns_lab2\\patterns_lab2\\Middleware\\Middleware.csproj": {
-              "projectPath": "D:\\polytech\\patterns_polytech\\patterns_lab2\\patterns_lab2\\Middleware\\Middleware.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
